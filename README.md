@@ -7,7 +7,7 @@ Install Python package using:
   <li><code>python3 -m venv envname</code></li>
   <li><code>source envname/bin/activate</code></li>
   <li><code>pip install PySide6</code></li>
-</ol>
+</ol></i>
 
 Run:
 
